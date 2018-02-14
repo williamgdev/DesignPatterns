@@ -1,4 +1,4 @@
-package com.williamgdev.example.designpatterns;
+package com.williamgdev.example.designpatterns.observer;
 
 import java.util.ArrayList;
 import java.util.List;

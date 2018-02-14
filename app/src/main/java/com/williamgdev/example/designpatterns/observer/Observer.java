@@ -1,4 +1,4 @@
-package com.williamgdev.example.designpatterns;
+package com.williamgdev.example.designpatterns.observer;
 
 /**
  * Created by willimail on 2/13/18.
